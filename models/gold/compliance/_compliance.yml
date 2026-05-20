@@ -1,0 +1,7 @@
+version: 2
+
+models:
+  - name: compliance_large_positions
+    description: Compliance reporting model for large-position monitoring.
+  - name: compliance_cross_currency_watchlist
+    description: Compliance reporting model for cross-currency watchlist review.
