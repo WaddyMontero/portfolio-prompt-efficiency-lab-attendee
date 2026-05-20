@@ -2,6 +2,8 @@
 
 `portfolio_prompt_efficiency_lab` is a compact `dbt-duckdb` project centered on portfolio reporting. It is designed to bootstrap quickly on a local machine and provide a small but realistic surface area for analysis and change.
 
+Facilitator materials for this workshop live separately in [WaddyMontero/portfolio-prompt-efficiency-lab](https://github.com/WaddyMontero/portfolio-prompt-efficiency-lab).
+
 ## What this repo is for
 
 - Provide a small dbt project that can be explored locally with an AI coding agent.
